@@ -1,0 +1,5 @@
+id,regNo,fullName,email,dob,active
+S1,23BCY10082,Somya Shekhar Tiwari,somya@example.com,2004-05-18,true
+S2,23BCY10045,Aarav Sharma,aarav.sharma@example.com,2003-09-12,true
+S3,23BCY10033,Ishita Verma,ishita.verma@example.com,2004-01-27,true
+S4,23BCY10021,Rahul Mehta,rahul.mehta@example.com,2003-12-05,false
